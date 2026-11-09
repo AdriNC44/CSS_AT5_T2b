@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightsteelblue;
+}
+
+section {
+    background-color: lightyellow;
+    margin-left: 600px;
+    margin-right: 600px;
+    overflow: auto;
+    padding: 20px;
+    border:  yellow 2px solid;
+}
+
+.torre {
+    float: left;
+    width: 250px;
+    height: 200px;
+    margin-right: 10px;
+}
+img {
+    float: right;
+    margin-left: 10px;
+}
